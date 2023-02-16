@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982721537031",
+    "project_id": "phone-auth-deb43",
+    "storage_bucket": "phone-auth-deb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982721537031:android:a8cf9b7a882e465d6536a2",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982721537031-g07blm0gqj2tsfvecfh5vsq8i3dr8bd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLZNMkbRY5B6N-aXCRomJlDD11dhNiRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982721537031-g07blm0gqj2tsfvecfh5vsq8i3dr8bd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
